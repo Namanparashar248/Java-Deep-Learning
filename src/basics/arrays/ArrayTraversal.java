@@ -1,4 +1,5 @@
 package basics.arrays;
+import java.util.Scanner;
 
 public class ArrayTraversal {
 public static void main(String[] args){
@@ -11,6 +12,7 @@ public static void main(String[] args){
 
     for(int i=0;i<num.length;i++){
         System.out.println(num[i]);
+
     }
 
 }
